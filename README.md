@@ -2,7 +2,6 @@
 **[Video of Application]()** <-- Click here to download the video.
 
 - The video demostrates how the applation works and how everything is connected.
-
 - Due to storage restrictions, the application and video is saved in a drive.
 
 The application made to better understand Full Stack; how back-end communicated with both the front-end and the database. It was made to showcase how React (front-end) connects with Spring Boot (back-end) and MySQL (database) through APIs.
