@@ -1,6 +1,6 @@
 **[Full-Stack App](https://drive.google.com/drive/folders/1ekrzUM8KGAbwMs0smmuwWc51fI5Qxcvn?usp=sharing)** <-- Click here to download the folder(s).
 
-**[Video of Application]()** <-- Click here to download the video.
+**[Video demonstation of Application]()** <-- Click here to download the video.
 
 - The video demostrates how the applation works and how everything is connected.
 - Due to storage restrictions, the application and video is saved in a drive.
